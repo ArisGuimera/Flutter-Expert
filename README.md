@@ -76,6 +76,35 @@ Temario:
   - [Modo oscuro](https://youtu.be/IKG1eV2SetA?t=32427)
 - [Despedida :(](https://youtu.be/IKG1eV2SetA?t=32626)
 
+----------
+
+## Aplicaciones desarrolladas durante el curso.
+
+### Calculador IMC.
+
+|                               Pantalla principal                               |                                   Resultado                                    |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|  <img src="img/imc_1.webp" style="height: 50%; width:50%;"/>  |  <img src="img/imc_2.webp" style="height: 50%; width:50%;"/>  |
+
+### Buscador de superhéroes.
+
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="img/hero_1.webp" style="height: 50%; width:50%;"/> | <img src="img/hero_2.webp" style="height: 50%; width:50%;"/> |
+
+### Mapas y markers.
+
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="img/map_1.webp" style="height: 50%; width:50%;"/> | <img src="img/map_2.webp" style="height: 50%; width:50%;"/> |
+
+### Pantalla de ajustes.
+
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="img/settings_1.webp" style="height: 50%; width:50%;"/> | <img src="img/settings_2.webp" style="height: 50%; width:50%;"/> |
+
+----------
 
 ## 👨‍💻 Autor
 
